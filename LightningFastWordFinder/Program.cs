@@ -6,7 +6,7 @@ namespace LightningFastWordFinder
 {
     class Program
     {
-        static string name = "YOUR NAME";
+        static string name = "Adam Kovacs";
         static int numOfRuns = 1000;
 
         static double RunParserPerformanceTests(string text)
