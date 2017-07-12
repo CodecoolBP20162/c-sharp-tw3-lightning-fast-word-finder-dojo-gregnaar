@@ -16,18 +16,13 @@ namespace LightningFastWordFinder
             {
                 if (longestLength < words[i].Length)
                 {
-                    if (Regex.IsMatch(words[i], @"^([A-Za-z]*)+$"))
+                    if (Regex.IsMatch(words[i], @"^[A-Za-z]+$"))
                     {
                         longestLength = words[i].Length;
                         longestWord = words[i];
                     }
                 }
-                else
-                {
-                    continue;
-                }
             }
-            
             return longestWord;
         }
     }

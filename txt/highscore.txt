@@ -3,3 +3,15 @@ YOUR NAME Runs: 1000 Score: 37,8175178
 YOUR NAME Runs: 1000 Score: 37,6181826
 YOUR NAME Runs: 1000 Score: 50,7040523
 YOUR NAME Runs: 1000 Score: 38,1186992
+Adam Kovacs Runs: 1000 Score: 19,1806129
+Adam Kovacs Runs: 1000 Score: 21,1086015
+Adam Kovacs Runs: 1000 Score: 19,3146263
+Adam Kovacs Runs: 1000 Score: 17,5777534
+Adam Kovacs Runs: 1000 Score: 17,5762987
+Adam Kovacs Runs: 1000 Score: 18,7819916
+Adam Kovacs Runs: 1000 Score: 17,4267063
+Adam Kovacs Runs: 1000 Score: 19,4197832
+Adam Kovacs Runs: 1000 Score: 17,4539649
+Adam Kovacs Runs: 1000 Score: 19,3521718
+Adam Kovacs Runs: 1000 Score: 18,0513011
+Adam Kovacs Runs: 1000 Score: 15,6525312
